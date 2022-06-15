@@ -5,6 +5,12 @@
   Vyom Theme
   <br><br>
 </h1>
+
+<p align="center">
+  A professional dark theme for Visual Studio Code (Editor)
+  <br>
+  <a href="https://marketplace.visualstudio.com/items?itemName=guasam.vyom">Vyom Theme - Visual Studio Marketplace</a>
+</p>
 <br>
 <p align="center">
     <a href="https://marketplace.visualstudio.com/items?itemName=guasam.vyom"><img src="https://vsmarketplacebadge.apphb.com/version-short/guasam.vyom.svg?style=for-the-badge&colorA=252526&colorB=43A047&style=rounded&label=VERSION" alt="Version"></a>&nbsp;
